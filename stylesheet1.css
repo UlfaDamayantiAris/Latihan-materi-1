@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Latihan Satu</title>
+        
+        <style>
+            div.container{
+                width: 600px;
+                padding: 5px;
+                display: flex;
+                margin: 30px;
+              flex-wrap: wrap;
+            }
+            div#red {
+                padding: 20px;
+                width: 500px;	
+                float: left;
+            background-color:red;
+            
+            }
+            
+            div#green {
+                padding: 20px;
+                width: 500px;
+            background-color:green;
+            }
+            
+            div#blue{
+                padding: 20px;
+                width: 500px;
+            float: left;
+            background-color:blue;
+            }
+            
+            div#yellow {
+                padding: 20px;
+                width: 500px;
+            
+            background-color:yellow;
+            }
+            
+            div#purple {
+                padding: 20px;
+                width: 500px;
+                float: left;
+            background-color:purple;
+            }
+            div#grey{
+                padding: 20px;
+                width: 500px;
+            background-color:grey;
+            }
+                    </style>
+   

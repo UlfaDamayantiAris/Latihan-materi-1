@@ -1,0 +1,50 @@
+<style>
+div.container{
+    padding: 50px;
+    width: 900px;
+    height: 100px;
+ 
+    
+  
+}
+div#red {
+    padding: 20px;
+    width: 300px;	
+    float: left;
+background-color:red;
+
+}
+
+div#green {
+    padding: 20px;
+    width: 600px;
+ 
+background-color:green;
+}
+
+div#blue{
+    padding: 20px;
+    width: 300px;
+float: left;
+background-color:blue;
+}
+
+div#yellow {
+    padding: 20px;
+    width: 600px;
+
+background-color:yellow;
+}
+
+div#purple {
+    padding: 20px;
+    width: 300px;
+    float: left;
+background-color:purple;
+}
+div#grey{
+    padding: 20px;
+    width: 600px;
+background-color:grey;
+}
+        </style>
